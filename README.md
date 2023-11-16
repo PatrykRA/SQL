@@ -38,3 +38,33 @@ In the results, please display the number of employees and the name of the city.
 Display the first name (first_name), last name (last_name), and position (title) using both Tables employees і titles</li>
 </ol>
 <br>
+<h3>ZADANIE 1/ TASK 1</h3>
+<p>Please select employees from the Employees Table and arrange them by date of hire (hire_date) in descending order.
+In the results, please display the ID (employee_no), first name (first_name), last name (last_name) and date of hire (hire_date).</p>
+<img src="SQL1.PNG">
+<br>
+<h3>ZADANIE 2/ TASK 2</h3>
+<p>Please select employees from the Table of Employees who were born after 1960 (inclusive).
+In the results, please show the first name (first_name), last name (last_name) date of birth (birth_date).</p>
+<img src="SQL2.PNG">
+<br>
+<h3>ZADANIE 3/ TASK 3</h3>
+<p>Please select employees from the Table of Employees whose first name begins with "Ma".
+In the results, please show the first name (first_name), last name (last_name) and date of birth (birth_date).</p>
+<img src="SQL3.PNG">
+<br>
+<h3>ZADANIE 4/ TASK 4</h3>
+<p>Please select the ID of employees from the Employee Territories Table who live in Kyiv, Dnipro and Lviv.
+In the results, please show the ID (employee_no) and the city (city).</p>
+<img src="SQL4.PNG">
+<br>
+<h3>ZADANIE 5/ TASK 5</h3>
+<p>Please display the number of employees for each city in the Employee Territories Table. Include only cities with more than 10 employees.
+In the results, please display the number of employees and the name of the city.</p>
+<img src="SQL5.PNG">
+<br>
+<h3>ZADANIE 6/ TASK 6</h3>
+<p>Please select the name of employees, and their positions in the company.
+Display the first name (first_name), last name (last_name), and position (title) using both Tables employees і titles.</p>
+<img src="SQL6.PNG">
+<br>
